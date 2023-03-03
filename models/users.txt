@@ -1,0 +1,11 @@
+User1 {
+    username: benishtainberg
+    email: bsbni6866@gmail.com
+    password: 1234
+}
+
+User2 {
+    username: a
+    email: a@a.com
+    password: 1234
+}
